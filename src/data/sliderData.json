@@ -18,5 +18,15 @@
     "link": "https://mangexis.netlify.app/manga/jojo-s-bizarre-adventure",
     "buttonText": "Oku",
     "createdAt": 1761839925601
+  },
+  {
+    "id": 3,
+    "title": "Solo Leveling",
+    "description": "",
+    "image": "https://wallpapers.com/images/hd/solo-leveling-red-blue-jin-woo-lqkysn5j2dwbkyj1.jpg",
+    "type": "manga",
+    "link": "https://mangexis.netlify.app/manga/solo-leveling",
+    "buttonText": "Oku",
+    "createdAt": 1761899399233
   }
 ]
